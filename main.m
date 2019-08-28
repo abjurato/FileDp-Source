@@ -1,4 +1,4 @@
-#import <Foundation/foundation.h>
+#import <Foundation/Foundation.h>
 #include <stdio.h>
 
 int main (int argc, const char * argv[]) 

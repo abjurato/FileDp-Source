@@ -11,7 +11,7 @@ Build on device (Chimera, iOS 12.4, iPhone 7):
 6. push files from this repo to the iOS device using SSH
 7. in their directory `# make` in order to compile executable
 8. `# chmod +x FileDP` in order to give executable permissions
-9. `# ldid -Sentitlements.xml FileDP` in order to sign the binanry
+9. `# ldid -Sentitlements.xml FileDP` in order to sign the executable
 
 Usage:
 ```
